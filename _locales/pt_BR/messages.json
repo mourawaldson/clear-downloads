@@ -1,0 +1,10 @@
+{
+    "description": {
+        "description": "Extension description.",
+        "message": "Limpar seus downloads automaticamente!"
+    },
+    "name": {
+        "description": "Extension name.",
+        "message": "Limpar Downloads"
+    }
+}
